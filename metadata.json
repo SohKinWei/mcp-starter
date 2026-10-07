@@ -1,0 +1,7 @@
+{
+  "name": "Precision Market Terminal",
+  "description": "Professional high-density financial market terminal and active trading analytics workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
